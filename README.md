@@ -39,10 +39,11 @@ Tenho uma base sólida em **lógica de programação**, **banco de dados** e **b
 ---
 
 ## 📈 Estatísticas do GitHub
+
 <div align="center">
-  <a href="https://github.com/abnercastro">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=abnercastro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnercastro&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/AbnerDeCastro">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbnerDeCastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerDeCastro&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </div>
 
@@ -50,7 +51,7 @@ Tenho uma base sólida em **lógica de programação**, **banco de dados** e **b
 
 ## 🌎 Onde me encontrar
 📧 **Email:** [castroabner93@gmail.com](mailto:seuemail@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/seulinkedin](https://linkedin.com/in/seulinkedin)
+💼 **LinkedIn:** [https://www.linkedin.com/in/abner-castro-6380021ba/](https://linkedin.com/in/seulinkedin)
 
 ---
 
