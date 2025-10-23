@@ -57,7 +57,7 @@ Tenho uma base sólida em **lógica de programação**, **banco de dados** e **b
 ## 🌎 Onde me encontrar
 
 📧 **Email:** [castroabner93@gmail.com](mailto:seuemail@gmail.com)
-💼 **LinkedIn:** [linkedin.com/in/seulinkedin](https://linkedin.com/in/seulinkedin)
+💼 **LinkedIn:** [https://www.linkedin.com/in/abner-castro-6380021ba/](https://linkedin.com/in/seulinkedin)
 
 ---
 
