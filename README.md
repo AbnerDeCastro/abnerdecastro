@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Abner Castro
 
-🎯 **Desenvolvedor Júnior Python**
+🎯 **Desenvolvedor Júnior**
 💡 Apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em código funcional.
 
 ---
