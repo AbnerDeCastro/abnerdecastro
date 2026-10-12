@@ -7,7 +7,7 @@
 
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor em constante evolução, com foco em **Python** e experiência em manutenção de sistemas, correção de bugs e integração de **APIs**.
+Sou um desenvolvedor em constante evolução, com foco em **Back End** e experiência em manutenção de sistemas, correção de bugs e integração de **APIs**.
 Tenho uma base sólida em **lógica de programação**, **banco de dados** e **boas práticas de desenvolvimento**.
 
 🚀 Busco sempre aprender novas tecnologias e contribuir com projetos que façam a diferença.
