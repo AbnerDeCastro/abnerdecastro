@@ -7,8 +7,9 @@
 
 ## 🧠 Sobre mim
 
-Sou um desenvolvedor em constante evolução, com foco em **Back End** e experiência em manutenção de sistemas, correção de bugs e integração de **APIs**.
-Tenho uma base sólida em **lógica de programação**, **banco de dados** e **boas práticas de desenvolvimento**.
+Sou desenvolvedor em constante evolução, com foco em **Back-end Java**. Tenho conhecimentos em lógica de programação, Programação Orientada a Objetos (POO), APIs REST e bancos de dados, aplicando meus conhecimentos em projetos práticos.
+
+🚀 Busco aprimorar minhas habilidades, desenvolver soluções eficientes e evoluir continuamente na área de desenvolvimento de software.
 
 🚀 Busco sempre aprender novas tecnologias e contribuir com projetos que façam a diferença.
 
