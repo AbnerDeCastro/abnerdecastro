@@ -1,66 +1,14 @@
-# 👋 Olá! Eu sou o Abner Castro
+# Abner Castro
 
-🎯 **Desenvolvedor Júnior**
-💡 Apaixonado por tecnologia, aprendizado contínuo e por transformar ideias em código funcional.
+`Backend Java Developer | Software Engineer`
 
----
+Backend developer focused on **Java and Python**, building practical projects and continuously improving my software engineering skills. Knowledge of Object-Oriented Programming (OOP), REST APIs, and relational databases. Experienced in working with backend technologies and integrations, with a focus on writing clean, maintainable code.
 
-## 🧠 Sobre mim
+🚀 Passionate about technology, problem-solving, and building reliable software solutions.
 
-Sou desenvolvedor em constante evolução, com foco em **Back-end Java**. Tenho conhecimentos em lógica de programação, Programação Orientada a Objetos (POO), APIs REST e bancos de dados, aplicando meus conhecimentos em projetos práticos.
+### 💼 Languages and Tools
 
-🚀 Busco aprimorar minhas habilidades, desenvolver soluções eficientes e evoluir continuamente na área de desenvolvimento de software.
-
-🚀 Busco sempre aprender novas tecnologias e contribuir com projetos que façam a diferença.
-
----
-
-## 💻 Tecnologias que uso
-
-### 🔹 Linguagens e Frameworks
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge\&logo=java\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### 🔹 Bancos de Dados
-
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge\&logo=mysql\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![Firebird](https://img.shields.io/badge/Firebird-E74430?style=for-the-badge\&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge\&logo=sqlite\&logoColor=white)
-
----
-
-## 🛠️ Ferramentas e Tecnologias
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-
----
-
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/AbnerDeCastro">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbnerDeCastro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerDeCastro&layout=compact&langs_count=7&theme=tokyonight"/>
-  </a>
-</div>
-
----
-
-## 🌎 Onde me encontrar
-
-📧 **Email:** [castroabner93@gmail.com](mailto:seuemail@gmail.com)
-💼 **LinkedIn:** [https://www.linkedin.com/in/abner-castro-6380021ba/](https://linkedin.com/in/seulinkedin)
-
----
-
-> “A tecnologia move o mundo, e eu quero fazer parte dessa mudança.” 🚀
-> — Abner Castro
+- **Languages:** Java, Python
+- **Backend:** Spring Boot, FastAPI, REST APIs
+- **Databases:** PostgreSQL, SQL
+- **Tools:** Git, GitHub, Docker
