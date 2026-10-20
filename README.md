@@ -1,6 +1,6 @@
 # Abner Castro
 
-`Backend Java Developer | Software Engineer`
+`Software Engineer`
 
 Backend developer focused on **Java and Python**, building practical projects and continuously improving my software engineering skills. Knowledge of Object-Oriented Programming (OOP), REST APIs, and relational databases. Experienced in working with backend technologies and integrations, with a focus on writing clean, maintainable code.
 
